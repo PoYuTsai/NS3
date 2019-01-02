@@ -2,7 +2,7 @@
 ## 安裝教學
 安裝穩定版本：
 
-下載：https://github.com/PoYuYsai/NS3/tree/master/install/install-ns3.sh
+下載：https://github.com/PoYuTsai/NS3/blob/master/install/install-ns3.sh
 執行安裝
 ```
 sudo sh install-ns3.sh
