@@ -122,7 +122,7 @@ for i in bobo_point :
     index=index+1
     pass
 
-print("伯育演算法平均")
+print("柏裕演算法平均")
 print (bo_av/33)
 
 print("最好平均")
@@ -131,11 +131,11 @@ print(best_av/33)
 print("最差平均")
 print(bad_av/33)
 
-print("伯育跟最好誤差")
+print("柏裕跟最好誤差")
 print(count/33)
 #print("\n")
 
-print("伯育跟最差誤差")
+print("柏裕跟最差誤差")
 print(locount/33)
 
 
